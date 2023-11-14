@@ -1,0 +1,15 @@
+body {
+    background-color: aliceblue;
+    text-align: center;
+}
+
+div {
+    width: fit-content;
+    background-color: bisque;
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    padding: 20px;
+}
